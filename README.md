@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi , I'm Balamurugan!👋
 
 <!--
-**Bala050814/Bala050814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about **Embedded Systems | IoT | C Programming | Arduino Projects**  
+🎯 Currently studying **ECE (2nd Year)**  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 C, Python  
+- ⚙️ Arduino, ESP32, Sensors  
+- 🧰 Git, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Currently Learning
+- Embedded C and Microcontroller Programming  
+- IoT Systems Integration  
+- PCB Design (KiCad)
+
+## ✨ Fun Fact
+> I believe every circuit tells a story — I just make them smarter.
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/balamurugan-r-70a459301)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:balamurugan.r050814@gmail.com)
 -->
