@@ -1,6 +1,6 @@
 ## Hi , I'm Balamurugan!👋
 
-<!--
+
 💡 Passionate about **Embedded Systems | IoT | C Programming | Arduino Projects**  
 🎯 Currently studying **ECE (2nd Year)**  
 
@@ -20,4 +20,4 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/balamurugan-r-70a459301)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:balamurugan.r050814@gmail.com)
--->
+
